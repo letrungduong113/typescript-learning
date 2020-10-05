@@ -2,7 +2,7 @@
 // Để định nghĩa class ta cần thuộc tính (là các biến kèm kiểu dữ liệu biến đó), phương thức (là các funtion thao tác với các thuộc tính)
 // Phương thức bắt buộc phải có là contructor() sử dụng để tạo ra 1 instance
 
-
+// export {};
 
 // tạo class
 class nhanVatGame {
